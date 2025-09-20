@@ -2,7 +2,7 @@
 
 ## 🛠️ Tool Installation Guide
 
-All the instructions I followed for installing the required tools are provided below.(I have named my system jey)
+All the instructions I followed for installing the required tools are provided below.(I have named my system Jey in Ubunutu-Virtual machine)
 
 ---
 
