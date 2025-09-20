@@ -2,7 +2,7 @@
 
 ## 🛠️ Tool Installation Guide
 
-All the instructions I followed for installing the required tools are provided below.
+All the instructions I followed for installing the required tools are provided below.(I have named my system jey)
 
 ---
 
