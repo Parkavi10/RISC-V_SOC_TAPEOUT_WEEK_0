@@ -1,7 +1,7 @@
 # RISC-V_SOC_TAPEOUT_WEEK_0
 SoC Tape out Program VSD
 
-# 🖥️ SoC Design Progress Tracker
+# 🖥️ SoC Design Progress
 
 This repository documents my **Week 0 tasks and learnings** as I progress through the SoC design program, from RTL all the way to GDSII, using open-source EDA tools. 
 
