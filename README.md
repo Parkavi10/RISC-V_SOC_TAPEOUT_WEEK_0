@@ -3,7 +3,7 @@ SoC Tape out Program VSD
 
 # 🖥️ SoC Design Progress Tracker
 
-This repository keeps track of my **week-wise tasks and learnings** as I work through the SoC design program, moving from RTL all the way to GDSII using open-source EDA tools.  
+This repository documents my **Week 0 tasks and learnings** as I progress through the SoC design program, from RTL all the way to GDSII, using open-source EDA tools. 
 
 ---
 
